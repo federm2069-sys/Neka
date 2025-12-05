@@ -1,0 +1,5 @@
+{
+  "name": "Neka",
+  "description": "Una aplicación web progresiva (PWA) para la gestión integral de cultivos de espirulina. Permite administrar estanques, registrar parámetros diarios (pH, OD, temp), gestionar cosechas y consultar a un asistente IA especializado.",
+  "requestFramePermissions": []
+}
